@@ -1,7 +1,7 @@
 ## About Me  
-Hello, I'm Mishaal.  
+Hi! I'm Mishaal.  
 
-Here, I share my projects, explore different technologies, and continue improving through hands-on practice.  
+Welcome to my profile, a place where I develop projects, learn new skills, and challenge myself with programming.  
 
 ## What I Do   
 I am a Computer Science student experimenting with different areas of technology. I enjoy building software that solves problems, combining logic with creativity, and improving my skills through practical projects.  
