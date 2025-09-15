@@ -17,6 +17,7 @@ I am a Computer Science student experimenting with different areas of technology
 - Number Catching Game – a simple console-based game developed in C++  
 
 
+
 Thank you for visiting my profile. Feel free to explore my repositories.  
 
 
