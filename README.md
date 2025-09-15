@@ -18,9 +18,6 @@ I am a Computer Science student experimenting with different areas of technology
 
 
 
-Thank you for visiting my profile. Feel free to explore my repositories.  
-
-
 <!--
 **mishaal31/mishaal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
