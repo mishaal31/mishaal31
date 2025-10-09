@@ -1,5 +1,5 @@
 # ❖｡･ About Me ｡･❖
-<br>Hi! I’m Mishaal :D<br><br>Welcome to my GitHub profile! I am passionate about software development and problem-solving ^_^. I enjoy creating projects that are both practical and challenging, constantly learning new technologies, and refining my programming skills.My goal is to build software that makes a real impact while expanding my knowledge in computer science.<br><br>
+<br>Hi! I’m Mishaal :D<br>Welcome to my GitHub profile! I am passionate about software development and problem-solving ^_^. I enjoy creating projects that are both practical and challenging, constantly learning new technologies, and refining my programming skills.My goal is to build software that makes a real impact while expanding my knowledge in computer science.<br><br>
 # ❖｡･ What I Do ｡･❖
 <br>As a Computer Science student, I explore multiple areas of technology. I enjoy:<br>• Designing software that solves real-world problems :D<br>• Combining logic with creativity ^_^ to make efficient solutions<br>• Improving my coding skills through hands-on projects and challenges ;)<br>• Learning and experimenting with new frameworks, languages, and tools :P<br><br>
 # ❖｡･ Tech Stack ｡･❖
