@@ -1,10 +1,10 @@
 # ❖｡･ About Me ｡･❖
 <br>Hi! I’m Mishaal :D<br><br>Welcome to my GitHub profile! I am passionate about software development and problem-solving ^_^. I enjoy creating projects that are both practical and challenging, constantly learning new technologies, and refining my programming skills.My goal is to build software that makes a real impact while expanding my knowledge in computer science.<br><br>
-#❖｡･ What I Do ｡･❖
+# ❖｡･ What I Do ｡･❖
 <br>As a Computer Science student, I explore multiple areas of technology. I enjoy:<br>• Designing software that solves real-world problems :D<br>• Combining logic with creativity ^_^ to make efficient solutions<br>• Improving my coding skills through hands-on projects and challenges ;)<br>• Learning and experimenting with new frameworks, languages, and tools :P<br><br>
-#❖｡･ Tech Stack ｡･❖
+# ❖｡･ Tech Stack ｡･❖
 <br>I work with a range of technologies and tools to build projects efficiently:<br>• Programming Languages: Python, C++, C# <br>• Database: SQL <br>• Development: Console Applications, Windows Applications <br>• Tools & Concepts: Object-Oriented Programming, Data Structures, Algorithms, Version Control<br><br>
-#❖｡･ Projects ｡･❖<br>Here are some of the key projects I have developed:<br>• Hostel Management System – A system to manage student records, room allocations, and payment details . Features include student registration, fee tracking, and report generation.<br>• Library Management System – A secure system with multiple user roles for librarians and students. Features include issue tracking, book inventory management, and authentication for librarians.<br>• Number Catching Game – A fun console-based game developed in C++ to practice logic, loops, and user interaction. Users catch numbers falling randomly and score points, making it both educational and entertaining.<br><br><br>
+# ❖｡･ Projects ｡･❖<br>Here are some of the key projects I have developed:<br>• Hostel Management System – A system to manage student records, room allocations, and payment details . Features include student registration, fee tracking, and report generation.<br>• Library Management System – A secure system with multiple user roles for librarians and students. Features include issue tracking, book inventory management, and authentication for librarians.<br>• Number Catching Game – A fun console-based game developed in C++ to practice logic, loops, and user interaction. Users catch numbers falling randomly and score points, making it both educational and entertaining.<br><br><br>
 
 
 # 💻 Tech Stack:
