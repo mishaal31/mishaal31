@@ -1,9 +1,10 @@
-#❖｡･ About Me ｡･❖
+❖｡･ About Me ｡･❖
+
 Hi! I’m Mishaal
 
 Welcome to my GitHub profile! I am passionate about software development and problem-solving ^_^. I enjoy creating projects that are both practical and challenging constantly learning new technologies, and refining my programming skills ;P. My goal is to build software that makes a real impact while expanding my knowledge in computer science.
 
-#❖｡･ What I Do ｡･❖
+❖｡･ What I Do ｡･❖
 As a Computer Science student, I explore multiple areas of technology.
 I enjoy:
 • Designing software that solves real-world problems 
@@ -11,14 +12,14 @@ I enjoy:
 • Improving my coding skills through hands-on projects and challenges
 • Learning and experimenting with new frameworks, languages, and tools
 
-#❖｡･ Tech Stack ｡･❖
+❖｡･ Tech Stack ｡･❖
 I work with a range of technologies and tools to build projects efficiently:
 • Programming Languages: Python, C++, C# :D
 • Database: SQL :)
 • Development: Console Applications, Windows Applications :P
 • Tools & Concepts: Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
-#❖｡･ Projects ｡･❖
+❖｡･ Projects ｡･❖
 Here are some of the key projects I have developed:
 • Hostel Management System – A system to manage student records, room allocations, and payment details :D. Features include student registration, fee tracking, and report generation.
 • Library Management System – A secure system with multiple user roles for librarians and students ^_^. Features include issue tracking, book inventory management, and authentication for librarians.
