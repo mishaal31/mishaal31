@@ -54,7 +54,7 @@ I enjoy logical thinking and writing clean, structured code. I am always eager t
 ### ｡･ GitHub Stats ｡･
 
 ![Mishaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishaal31&show_icons=true&theme=tokyonight&title_color=bb9cd3&icon_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=mishaal31&theme=tokyonight&border_radius=5&fire=bb9cd3&ring=bb9cd3&currStreakLabel=d6c6ec)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mishaal31&theme=tokyonight&border_radius=5&ring=bb9cd3&fire=bb9cd3&currStreakLabel=d6c6ec)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishaal31&layout=compact&theme=tokyonight&title_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)
 
 ---
