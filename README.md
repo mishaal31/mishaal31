@@ -6,13 +6,6 @@ I enjoy building practical projects, learning new technologies, and continuously
 
 ---
 
-### ｡･ About Me ｡･  
-
-I am a Computer Science student who is deeply interested in software and application development.  
-I enjoy logical thinking and writing clean, structured code. I am always eager to learn and explore new technologies, improving my skills step by step and applying them to create practical and efficient solutions.
-
----
-
 ### ｡･ What I Do ｡･  
 
 • Design software that solves real-world problems  
