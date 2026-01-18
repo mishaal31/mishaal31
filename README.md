@@ -42,6 +42,8 @@ I enjoy logical thinking and writing clean, structured code. I am always eager t
 | **Database Tools** | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-b197d6?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Design & Prototyping** | ![Figma](https://img.shields.io/badge/Figma-bb9cd3?style=for-the-badge&logo=figma&logoColor=white) |
 
+---
+
 ### ｡･ Currently Exploring ｡･  
 
 • Advanced Python  
