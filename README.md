@@ -21,17 +21,14 @@ I am a Computer Science student who is deeply interested in software and applica
 
 ---
 
-
-###  ｡･ Tech Stack ｡･ 
+### ｡･ Tech Stack ｡･ 
 
 | Category | Technologies |
 |:----------|:--------------|
 | **Programming** | ![Python](https://img.shields.io/badge/Python-bb9cd3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-9a84c3?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-a78cd9?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-9579c6?style=for-the-badge&logo=csharp&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Development** | Console Applications, Windows Applications |
-| **Concepts & Tools** | Object-Oriented Programming, Data Structures, Algorithms, Version Control |
-
----
+| **Frameworks / Libraries** | ![.NET](https://img.shields.io/badge/.NET-8e78c4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-b6a0d4?style=for-the-badge&logo=python&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-cdb8e5?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-b197d6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-b197d6?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ###  ｡･ Tools I Use ｡･  
 
@@ -39,7 +36,8 @@ I am a Computer Science student who is deeply interested in software and applica
 |:----------|:-------|
 | **Version Control & Deployment** | ![Git](https://img.shields.io/badge/Git-8e78c4?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-a78cd9?style=for-the-badge&logo=github&logoColor=white) |
 | **IDEs & Code Editors** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-bb9cd3?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-b197d6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Dev C++](https://img.shields.io/badge/Dev%20C++-9a84c3?style=for-the-badge&logo=dev.to&logoColor=white) |
-| **Database Tools** | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Database Tools** | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-b197d6?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Design & Prototyping** | ![Figma](https://img.shields.io/badge/Figma-bb9cd3?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
@@ -71,8 +69,7 @@ To grow as a software developer by building **simple, efficient, and impactful s
 
 ### ｡･ Let’s Connect ｡･  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)
+[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishaal-nafees-2b7406368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=mishaal31&icon=0&color=0)](https://visitcount.itsvg.in)
+Thanks for visiting my GitHub! Wishing you a day full of learning and inspiration :)
