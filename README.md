@@ -7,14 +7,6 @@ Always curious, always learning, and always creating practical solutions.
 
 ---
 
-### ｡･ About Me ｡･  
-
-- Studying Computer Science with a focus on **problem-solving and design thinking**. My interest is **Data Science and Machine Learning**.  
-- I enjoy exploring **algorithms, clean code, and new tech trends**.  
-- Fun fact: I can spend hours **optimizing and refining code** just to make it perfect.  
-
----
-
 ### ｡･ What I Do ｡･  
 
 - Design software that solves real-world problems  
