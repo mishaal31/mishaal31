@@ -1,21 +1,94 @@
-# ｡･ About Me ｡･
-<br>Hi! I’m Mishaal :D<br>Welcome to my GitHub profile! I am passionate about software development and problem-solving ^_^. I enjoy creating projects that are both practical and challenging, constantly learning new technologies, and refining my programming skills.My goal is to build software that makes a real impact while expanding my knowledge in computer science.<br><br>
-# ｡･ What I Do ｡･
-<br>As a Computer Science student, I explore multiple areas of technology. I enjoy:<br>• Designing software that solves real-world problems :D<br>• Combining logic with creativity ^_^ to make efficient solutions<br>• Improving my coding skills through hands-on projects and challenges ;)<br>• Learning and experimenting with new frameworks, languages, and tools :P<br><br>
-# ｡･ Tech Stack ｡･
-<br>I work with a range of technologies and tools to build projects efficiently:<br>• Programming Languages: Python, C++, C# <br>• Database: SQL <br>• Development: Console Applications, Windows Applications <br>• Tools & Concepts: Object-Oriented Programming, Data Structures, Algorithms, Version Control<br><br>
-# ｡･ Projects ｡･
-<br>Here are some of the key projects I have developed:<br>• Hostel Management System – A system to manage student records, room allocations, and payment details . Features include student registration, fee tracking, and report generation.<br>• Library Management System – A secure system with multiple user roles for librarians and students. Features include issue tracking, book inventory management, and authentication for librarians.<br>• Number Catching Game – A fun console-based game developed in C++ to practice logic, loops, and user interaction. Users catch numbers falling randomly and score points, making it both educational and entertaining.<br><br><br>
+# ｡･ﾟ✧ Hi, I’m Mishaal ✧ﾟ･｡  
 
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mishaal31&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mishaal31&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishaal31&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Welcome to my GitHub profile!  
+I’m a **Computer Science student** passionate about **software development** and **problem-solving**.  
+I enjoy building practical projects, learning new technologies, and continuously improving my skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mishaal31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#｡･ About Me ｡･  
+
+I am a Computer Science student who is deeply interested in software and application development. I enjoy logical thinking and writing clean, structured code. I am always eager to learn and explore new technologies, improving my skills step by step and applying them to create practical and efficient solutions.
+
+---
+
+#｡･ What I Do ｡･  
+
+• Design software that solves real-world problems  
+• Combine logic with creativity to build efficient solutions  
+• Improve skills through hands-on projects and challenges  
+• Experiment with new languages, tools, and frameworks  
+
+---
+
+#｡･ Tech Stack ｡･  
+
+**Programming Languages**  
+Python, C++, C#  
+
+**Database**  
+SQL / MySQL  
+
+**Development**  
+Console Applications, Windows Applications  
+
+**Concepts & Tools**  
+Object-Oriented Programming, Data Structures, Algorithms, Version Control  
+
+---
+
+#｡･ Tools I Use ｡･  
+
+• Git & GitHub  
+• Visual Studio / VS Code  
+• MySQL Tools  
+• Basic UI & layout tools  
+
+---
+
+#｡･ Projects ｡･  
+
+• **Hostel Management System**  
+  Manages student records, room allocation, and payments with reporting features.  
+
+• **Library Management System**  
+  Role-based system for librarians and students with inventory and issue tracking.  
+
+• **Number Catching Game (C++)**  
+  Console-based game focused on logic, loops, and user interaction.  
+
+---
+
+#｡･ Currently Exploring ｡･  
+
+• Advanced Python  
+• Desktop application development  
+• Database integration  
+• Improving problem-solving skills  
+
+---
+
+#｡･ GitHub Stats ｡･
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+｡･ My Vision ｡･  
+
+To grow as a software developer by building **simple, efficient, and impactful software** while continuously learning.
+
+---
+
+｡･ Let’s Connect ｡･  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mishaal31&icon=0&color=0)](https://visitcount.itsvg.in)
