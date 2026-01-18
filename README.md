@@ -1,4 +1,4 @@
-# ｡･ﾟ✧ Hi, I’m Mishaal ✧ﾟ･｡  
+## ｡･ﾟ✧ Hi, I’m Mishaal ✧ﾟ･｡  
 
 Welcome to my GitHub profile!  
 I’m a **Computer Science student** passionate about **software development** and **problem-solving**.  
@@ -6,13 +6,13 @@ I enjoy building practical projects, learning new technologies, and continuously
 
 ---
 
-# ｡･ About Me ｡･  
+### ｡･ About Me ｡･  
 
 I am a Computer Science student who is deeply interested in software and application development. I enjoy logical thinking and writing clean, structured code. I am always eager to learn and explore new technologies, improving my skills step by step and applying them to create practical and efficient solutions.
 
 ---
 
-# ｡･ What I Do ｡･  
+### ｡･ What I Do ｡･  
 
 • Design software that solves real-world problems  
 • Combine logic with creativity to build efficient solutions  
@@ -21,32 +21,29 @@ I am a Computer Science student who is deeply interested in software and applica
 
 ---
 
-# ｡･ Tech Stack ｡･  
 
-**Programming Languages**  
-Python, C++, C#  
+###  ｡･ Tech Stack ｡･ 
 
-**Database**  
-SQL / MySQL  
-
-**Development**  
-Console Applications, Windows Applications  
-
-**Concepts & Tools**  
-Object-Oriented Programming, Data Structures, Algorithms, Version Control  
+| Category | Technologies |
+|:----------|:--------------|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-bb9cd3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-9a84c3?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-a78cd9?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-9579c6?style=for-the-badge&logo=csharp&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Development** | Console Applications, Windows Applications |
+| **Concepts & Tools** | Object-Oriented Programming, Data Structures, Algorithms, Version Control |
 
 ---
 
-# ｡･ Tools I Use ｡･  
+###  ｡･ Tools I Use ｡･  
 
-• Git & GitHub  
-• Visual Studio / VS Code  
-• MySQL Tools  
-• Basic UI & layout tools  
+| Category | Tools |
+|:----------|:-------|
+| **Version Control & Deployment** | ![Git](https://img.shields.io/badge/Git-8e78c4?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-a78cd9?style=for-the-badge&logo=github&logoColor=white) |
+| **IDEs & Code Editors** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-bb9cd3?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-b197d6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Dev C++](https://img.shields.io/badge/Dev%20C++-9a84c3?style=for-the-badge&logo=dev.to&logoColor=white) |
+| **Database Tools** | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-a78cd9?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ---
 
-# ｡･ Projects ｡･  
+### ｡･ Projects ｡･  
 
 • **Hostel Management System**  
   Manages student records, room allocation, and payments with reporting features.  
@@ -59,7 +56,7 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-# ｡･ Currently Exploring ｡･  
+### ｡･ Currently Exploring ｡･  
 
 • Advanced Python  
 • Desktop application development  
@@ -68,7 +65,15 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-# ｡･ GitHub Stats ｡･
+### ｡･ Projects ｡･
+
+- **Hostel Management System** – Manages student records, room allocation, and payments with reporting features.  
+- **Library Management System** – Role-based system with inventory and issue tracking.  
+- **Number Catching Game (C++)** – Console-based game focused on logic, loops, and user interaction.  
+
+---
+
+### ｡･ GitHub Stats ｡･
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -79,13 +84,13 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-# ｡･ My Vision ｡･  
+### ｡･ My Vision ｡･  
 
 To grow as a software developer by building **simple, efficient, and impactful software** while continuously learning.
 
 ---
 
-# ｡･ Let’s Connect ｡･  
+### ｡･ Let’s Connect ｡･  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)
 
