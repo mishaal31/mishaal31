@@ -43,33 +43,12 @@ I am a Computer Science student who is deeply interested in software and applica
 
 ---
 
-### ｡･ Projects ｡･  
-
-• **Hostel Management System**  
-  Manages student records, room allocation, and payments with reporting features.  
-
-• **Library Management System**  
-  Role-based system for librarians and students with inventory and issue tracking.  
-
-• **Number Catching Game (C++)**  
-  Console-based game focused on logic, loops, and user interaction.  
-
----
-
 ### ｡･ Currently Exploring ｡･  
 
 • Advanced Python  
 • Desktop application development  
 • Database integration  
 • Improving problem-solving skills  
-
----
-
-### ｡･ Projects ｡･
-
-- **Hostel Management System** – Manages student records, room allocation, and payments with reporting features.  
-- **Library Management System** – Role-based system with inventory and issue tracking.  
-- **Number Catching Game (C++)** – Console-based game focused on logic, loops, and user interaction.  
 
 ---
 
