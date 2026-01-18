@@ -6,13 +6,13 @@ I enjoy building practical projects, learning new technologies, and continuously
 
 ---
 
-#｡･ About Me ｡･  
+# ｡･ About Me ｡･  
 
 I am a Computer Science student who is deeply interested in software and application development. I enjoy logical thinking and writing clean, structured code. I am always eager to learn and explore new technologies, improving my skills step by step and applying them to create practical and efficient solutions.
 
 ---
 
-#｡･ What I Do ｡･  
+# ｡･ What I Do ｡･  
 
 • Design software that solves real-world problems  
 • Combine logic with creativity to build efficient solutions  
@@ -21,7 +21,7 @@ I am a Computer Science student who is deeply interested in software and applica
 
 ---
 
-#｡･ Tech Stack ｡･  
+# ｡･ Tech Stack ｡･  
 
 **Programming Languages**  
 Python, C++, C#  
@@ -37,7 +37,7 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-#｡･ Tools I Use ｡･  
+# ｡･ Tools I Use ｡･  
 
 • Git & GitHub  
 • Visual Studio / VS Code  
@@ -46,7 +46,7 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-#｡･ Projects ｡･  
+# ｡･ Projects ｡･  
 
 • **Hostel Management System**  
   Manages student records, room allocation, and payments with reporting features.  
@@ -59,7 +59,7 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-#｡･ Currently Exploring ｡･  
+# ｡･ Currently Exploring ｡･  
 
 • Advanced Python  
 • Desktop application development  
@@ -68,7 +68,7 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-#｡･ GitHub Stats ｡･
+# ｡･ GitHub Stats ｡･
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -79,13 +79,13 @@ Object-Oriented Programming, Data Structures, Algorithms, Version Control
 
 ---
 
-｡･ My Vision ｡･  
+# ｡･ My Vision ｡･  
 
 To grow as a software developer by building **simple, efficient, and impactful software** while continuously learning.
 
 ---
 
-｡･ Let’s Connect ｡･  
+# ｡･ Let’s Connect ｡･  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)
 
