@@ -1,17 +1,26 @@
 ## ｡･ﾟ✧ Hi, I’m Mishaal ✧ﾟ･｡  
 
 Welcome to my GitHub profile!  
-I’m a **Computer Science student** passionate about **software development** and **problem-solving**.  
-I enjoy building practical projects, learning new technologies, and continuously improving my skills.
+I’m a **creative Computer Science student** passionate about **blending logic and design**.  
+I love working with **Python, C++, C#**, and exploring **Data Science & Machine Learning**.  
+Always curious, always learning, and always creating practical solutions.
+
+---
+
+### ｡･ About Me ｡･  
+
+- Studying Computer Science with a focus on **problem-solving and design thinking**. My interest is **Data Science and Machine Learning**.  
+- I enjoy exploring **algorithms, clean code, and new tech trends**.  
+- Fun fact: I can spend hours **optimizing and refining code** just to make it perfect.  
 
 ---
 
 ### ｡･ What I Do ｡･  
 
-• Design software that solves real-world problems  
-• Combine logic with creativity to build efficient solutions  
-• Improve skills through hands-on projects and challenges  
-• Experiment with new languages, tools, and frameworks  
+- Design software that solves real-world problems  
+- Combine logic with creativity to build efficient solutions  
+- Improve skills through hands-on projects and challenges  
+- Experiment with new languages, tools, and frameworks  
 
 ---
 
