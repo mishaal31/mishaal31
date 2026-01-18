@@ -50,7 +50,7 @@ I am a Computer Science student who is deeply interested in software and applica
 
 ---
 
-### ｡･ GitHub Stats ｡･
+### ｡･ All Stats ｡･
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -58,6 +58,14 @@ I am a Computer Science student who is deeply interested in software and applica
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💫 GitHub Stats
+
+![Mishaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishaal31&show_icons=true&theme=tokyonight&title_color=bb9cd3&icon_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mishaal31&theme=tokyonight&border_radius=5&ring=bb9cd3&fire=bb9cd3&currStreakLabel=d6c6ec)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishaal31&layout=compact&theme=tokyonight&title_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)
 
 ---
 
