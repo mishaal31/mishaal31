@@ -70,6 +70,5 @@ To grow as a software developer by building **simple, efficient, and impactful s
 ### ｡･ Let’s Connect ｡･  
 
 [![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishaal-nafees-2b7406368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Thanks for visiting my GitHub! Wishing you a day full of learning and inspiration :)
