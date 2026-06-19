@@ -1,4 +1,4 @@
-## ｡･ﾟ✧ Hi, I’m Mishaal ✧ﾟ･｡  
+## ✧ Hi, I’m Mishaal ✧
 
 Welcome to my GitHub profile!  
 I’m a **creative Computer Science student** passionate about **blending logic and design**.  
