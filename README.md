@@ -1,11 +1,9 @@
 ## ✧ Hi, I’m Mishaal Nafees ✧
 
-Welcome to my GitHub profile!  
-I’m a **creative Computer Science student** passionate about **blending logic and design**.  
-
-I love working with **Python, C++, C#**, and exploring **Data Science & Machine Learning**.  
-
-Always curious, always learning, and always creating practical solutions.
+• A passionate Computer Science student who loves transforming ideas into meaningful software.
+• Exploring the world of Python, C++, C#, and diving deeper into Artificial Intelligence, Data Science, and Machine Learning.
+• I enjoy learning new technologies, solving challenging problems, and building projects that improve my skills every day.
+• Always learning. Always growing. Always creating.
 
 ---
 
