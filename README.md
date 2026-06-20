@@ -59,6 +59,6 @@ To build intelligent, efficient, and impactful software that combines creativity
 
 ### ✧ Let’s Connect 
 
-[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/mishaal-nafees-2b7406368])
+[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mishaal-nafees-2b7406368)
 
 Thanks for visiting my GitHub! Wishing you a day full of learning and inspiration :)
