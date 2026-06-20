@@ -1,7 +1,7 @@
 ## ✧ Hi, I’m Mishaal Nafees ✧
 
-• A passionate Computer Science student who loves transforming ideas into meaningful software.
-• Exploring the world of Python, C++, C#, and diving deeper into Artificial Intelligence, Data Science, and Machine Learning.
+• A passionate Computer Science student who loves transforming ideas into meaningful software. 
+• Exploring the world of Python, C++, C#, and diving deeper into Artificial Intelligence, Data Science, and Machine Learning. 
 • I enjoy learning new technologies, solving challenging problems, and building projects that improve my skills every day.
 • Always learning. Always growing. Always creating.
 
