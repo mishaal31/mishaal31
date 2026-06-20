@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile!  
 I’m a **creative Computer Science student** passionate about **blending logic and design**.  
+
 I love working with **Python, C++, C#**, and exploring **Data Science & Machine Learning**.  
+
 Always curious, always learning, and always creating practical solutions.
 
 ---
