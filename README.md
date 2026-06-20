@@ -23,7 +23,7 @@ Always curious, always learning, and always creating practical solutions.
 
 ---
 
-### ｡･ Development Tools 
+### ✧ Development Tools 
 | Category | Tools |
 |:----------|:-------| 
 | **Version Control & Deployment** | ![Git](https://img.shields.io/badge/Git-8e78c4?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-a78cd9?style=for-the-badge&logo=github&logoColor=white) | 
@@ -33,7 +33,7 @@ Always curious, always learning, and always creating practical solutions.
 
 ---
 
-### ｡･ Currently Exploring ｡･  
+### ✧ Currently Exploring 
 
 • Advanced Python  
 • Desktop application development  
@@ -43,7 +43,7 @@ Always curious, always learning, and always creating practical solutions.
 
 ---
 
-### ｡･ GitHub Stats ｡･
+### ✧ GitHub Stats 
 
 ![Mishaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishaal31&show_icons=true&theme=tokyonight&title_color=bb9cd3&icon_color=bb9cd3&text_color=d6c6ec&bg_color=1a1a1a)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mishaal31&theme=tokyonight)
@@ -51,15 +51,14 @@ Always curious, always learning, and always creating practical solutions.
 
 ---
 
-### ｡･ My Vision ｡･  
+### ✧ My Vision 
 
 To build intelligent, efficient, and impactful software that combines creativity, innovation, and technology to solve real-world problems.
 
 ---
 
-### ｡･ Let’s Connect ｡･  
+### ✧ Let’s Connect 
 
-[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/mishaal-nafees-2b7406368])
+[![GitHub](https://img.shields.io/badge/GitHub-8e78c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaal31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-b197d6?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/mishaal-nafees-2b7406368])
 
 Thanks for visiting my GitHub! Wishing you a day full of learning and inspiration :)
